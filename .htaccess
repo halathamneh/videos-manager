@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Videos Admin"
+AuthUserFile /path/to/.htpasswd
+Require valid-user
